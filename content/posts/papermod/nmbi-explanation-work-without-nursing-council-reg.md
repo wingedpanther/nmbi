@@ -8,7 +8,7 @@ tags: ["Explanation"]
 author: "Admin"
 ---
 
-#### Explanation Template - If you worked without nursing council registeration
+#### Explanation Template - If you worked without nursing council registeration.
 
 
 ```gist
