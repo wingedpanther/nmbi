@@ -1,5 +1,5 @@
 ---
-title: "NMBI Registeration Requirements"
+title: "NMBI Registration Requirements"
 summary: Read about the documents required for the registration process.
 date: 2022-01-05
 series: ["Documents"]
@@ -12,7 +12,7 @@ author: "Admin"
 ## Official NMBI Website
 
 
--   The `official` NMBI website for the registeration is  [https://my.nmbi.ie/](https://my.nmbi.ie/).
+-   The `official` NMBI website for the registration is  [https://my.nmbi.ie/](https://my.nmbi.ie/).
 
 -   It is highly recommended to read the [`Registrant User Guide`](https://www.nmbi.ie/NMBI/media/NMBI/Registrant_User_Guide.pdf?ext=.pdf) before you start.
 -   Application forms download [link](https://www.nmbi.ie/Registration/Application-Forms)
