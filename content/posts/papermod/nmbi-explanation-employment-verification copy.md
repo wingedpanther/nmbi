@@ -1,6 +1,6 @@
 ---
 title: "Explanation Template - Unable to get employemnt verification"
-summary: Sample explanation letter for explaining about gap in experience
+summary: Sample explanation letter for explaining if you are unable to get employement verification
 date: 2021-01-20
 weight: 2
 aliases: ["/explanation-template"]
