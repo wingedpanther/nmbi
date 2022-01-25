@@ -33,7 +33,7 @@ author: "Admin"
 - **Transcript**
 > You need to get new transcript from the college.
 - **Syllabus**
-> All years syllabus required. Pricipal's signature and college stamp is rquired on the  first 3 pages and last 3 pages.
+> All year's syllabus required. Pricipal's signature and college stamp is rquired on the  first 3 pages and last 3 pages.
 - **Qualification form**
 All the above docs to be dated, signed and stamped by your college principal. The date on all the above docs should be current date and the same.  
 
