@@ -9,6 +9,8 @@ tags: ["Documents"]
 author: "Admin"
 ---
 
+##  PREPARE ALL DOCUMENTS BEFORE SUBMITTING YOUR NMBI APPLICATION.
+
 ## Official NMBI Website
 
 
