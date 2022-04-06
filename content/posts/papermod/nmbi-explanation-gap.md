@@ -9,7 +9,7 @@ author: "Admin"
 ---
 
 ### Explaining gap(s) in the experience
-
+> This is just a sample to get an idea about how to make a letter. It is better to alter the content to make this unique for you.
 
 ```gist
 
