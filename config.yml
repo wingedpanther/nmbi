@@ -1,5 +1,5 @@
 baseURL: "https://nmbi.netlify.app/"
-title: NMBIGuide
+title: NMBI Guide
 paginate: 10
 theme: hugo-PaperMod
 
@@ -58,7 +58,7 @@ params:
 
     profileMode:
         enabled: false
-        title: NMBIGuide
+        title: NMBI Guide
         imageUrl: "#"
         imageTitle: my image
         # imageWidth: 120
@@ -74,7 +74,7 @@ params:
         Content: >
             This site will provide you with guides and information. All the information you see here is collected from various sources and from NMBI aspirants like you.
 
-            - ⚠️This site is not affiliated with the official [NMBI](https://www.nmbi.ie/Home)
+            - ⚠️This site is not affiliated with the official [NMBI](https://www.nmbi.ie/Home) by any means. 
 
             - Discrepancies or misinformation about the information shared here can be reported to **postgreshero@gmail.com** , as well as feel free to send if you want to share any information related to NMBI registration.
 
