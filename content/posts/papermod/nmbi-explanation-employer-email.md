@@ -9,28 +9,27 @@ author: "Admin"
 ---
 
 ### Explanation of the use unofficial email address(gmail,yahoo etc)
-> This letter must be written and printed in the **official letterhead** along with stamp of employer.
+> This letter must be written and printed in the **official letterhead** along with stamp of employer. This is just a sample to get an idea about how to make a letter. It is better to alter the content to make this unique for you. 
 
 ```gist
 
-Ref: 
-Date: 
-                            TO WHOMSOEVER IT MAY CONCERN
+To,
+Nursing & Midwifery Board of Ireland (NMBI),
+Overseas Registration Department,
+18/20 Carysfort Avenue, Blackrock,
+Co. Dublin, A94 R299 - Ireland
 
-This is to state that I, (name of authorized signatory), at (name of the hospital/medical center); have 
-processed the qualification form for (name of candidate). His/Her details being:
-Name of Candidate: 
-Email id of the candidate:
-Kindly note the official email id of (name of the medical center) is (email id).
-My official email id at (name of hospital/medical center) is (email id).
-Should you need any further details of clarifications, please feel free to get in touch with me on the email 
-on the above-mentioned email address.
+To Whom It May Concern,
 
-Thanking You,
-Yours Sincerely,
+I, NAME_OF_THE_SIGNATORY, the SIGNATORY’S_DESIGNATION of HOSPITAL_NAME hereby certify that I have processed the NMBI employment form as requested by 
+Name: CANDIDATE_NAME
+Email Address: CANDIDATE_EMAIL(SAME ID THAT YOU REG. WITH NMBI)
+Please be informed that the official email address of the HOSPITAL_NAME is HOSPITAL_EMAIL_ID and my official email address is SIGNATORY’_EMAIL_ID
+Do not hesitate to contact me on the aforementioned email for any further information or clarifications.  
 
-Name: 
+Sincerely, 
+Signatory’s Name & Designation
+(Signatory’s Sign)
 
-Title: 
-(Signature of the Authorised Signatory)
+
 ```
