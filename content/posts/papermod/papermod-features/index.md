@@ -27,7 +27,7 @@ author: "Admin"
 3. **Transcript**
 4. **Syllabus**
 5. **Qualification Form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Qualification-Form.pdf?ext=.pdf) it from NMBI)
-6. **Employment Verification form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Employment-Form.pdf?ext=.pdf) it from NMBI). You need to get it filled by current and previoous employers.**
+6. **Employment Verification form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Employment-Form.pdf?ext=.pdf) it from NMBI). You need to get it filled by current and previous employers.**
 7. **Good Standing Certificate(CCPS)** from the Nursing Councils you have registered.
 8. **OET/IELTS Result** 
 
