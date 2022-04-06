@@ -20,7 +20,7 @@ Overseas Registration Department,
 Co. Dublin, A94 R299 - Ireland
  
 
-                             SUB: GAP IN EMPLOYEMENT (4 Months)
+                             SUB: GAP IN EMPLOYEMENT
  
 I, CANDIDATE_NAME, am writing this letter to explain the reason for the NUMBER months gap in my employment.
 I completed my first employment in the HOSPITAL_NAME, India on DATE and I started to work in HOSPITAL_NAME on DATE. There has been a gap of NUMBER months between employment.
