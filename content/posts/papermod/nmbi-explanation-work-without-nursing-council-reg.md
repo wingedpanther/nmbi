@@ -8,26 +8,28 @@ tags: ["Explanation"]
 author: "Admin"
 ---
 
-#### Explanation Template - If you worked without nursing council registeration.
+#### Explanation Template - If you worked without nursing council registeration. This is just a sample to get an idea about how to make a letter. It is better to alter the content to make this unique for you.
 
 
 ```gist
 
-Name:                                                                         Date:
-Address:
+To,
+Nursing & Midwifery Board of Ireland (NMBI),
+Overseas Registration Department,
+18/20 Carysfort Avenue, Blackrock,
+Co. Dublin, A94 R299 - Ireland
  
-DECLARATION: WORKING WITH AN ACTIVE NURSING REGISTRAION FROM ANOTHER STATE IN INDIA 
 
-I completed my (qualification details - BSc/GNM) in (Month/Year). I completed my nursing registration on
-(date) with the (name of nursing council). 
-Following my registration with the (name of nursing council), I was employed with (name of
-hospital/health center) from (start date) to (end date). During my tenure at (name of hospital/health
-center) we were not required to register with the (name of nursing council) as long as we had an activeregistration from one of the Nursing Councils in India. This was a practice back in the day and was followedby most of the hospitals in India during this time frame. 
-I trust this clarifies the query raised.
-Should you need any further details, please feel free to get in touch with me.
+SUB: WORKED IN A STATE WITH AN ACTIVE NURSING REGISTRATION FROM ANOTHER STATE IN INDIA
+ 
+I, CANDIDATE_NAME, hereby declare how did I work in a state with an active nursing council registration from another state in India. 
+My Bachelor of Science in Nursing (BSc. Nursing) degree was awarded in MONTH YEAR by UNIVERSITY_NAME in STATE, India, and I obtained my Nursing Registration on the DATE from the NURSING_COUNCIL_NAME.
+My first job after registering with the NURSING_COUNCIL_NAME.was with the HOSPITAL_NAME, STATE, India from DATE to DATE.
+I was not required to register with the NURSING_COUNCIL_NAME to work at HOSPITAL_NAME because I had an active & primary nursing council registration from one of the Nursing Councils in India. The practice was prevalent in India during this period and was followed by most hospitals.
+I acknowledge that the information I have given is accurate and complete
 
-Yours Sincerely,
-Name:
-Signature:
+Yours Sincerely,                                                                                            Date:
+Name: CANDIDATE_NAME
+
 
 ```
