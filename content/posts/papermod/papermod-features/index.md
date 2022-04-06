@@ -51,7 +51,7 @@ All the above docs to be dated, signed and stamped by your college principal. Th
 - **Degree/Diploma**
 
 
-### General Information
+### General Information(MUST READ)
 >Ensure you submit valid explanation if you have gap in the employement and studies. 
 
 >Prepare an explanation if the signatory(employment and qualification forms) does not have an official email address. The explanation must be written in the official letterhead, signed and stamped.
@@ -59,6 +59,7 @@ All the above docs to be dated, signed and stamped by your college principal. Th
 >Prepare an explanation if the signatory's title is different than what NMBI required(it is mentioned in the Employment form).
 
 >Prepare an affidavit if your name is different in the documents.
+>You can send the syllabus file to NMBI via email(G3reg@nmbi.ie) If you cannot reduce the size of the syllabus file. **It must be sent from the email address that you have used to register in NMBI**
 
 
 
