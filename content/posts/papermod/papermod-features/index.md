@@ -56,7 +56,7 @@ All the above docs to be dated, signed and stamped by your college principal. Th
 
 >Prepare an explanation if the signatory(employment and qualification forms) does not have an official email address. The explanation must be written in the official letterhead, signed and stamped.
 
->Prepare an explanation if the signatory's title is different that what NMBI required.
+>Prepare an explanation if the signatory's title is different than what NMBI required(it is mentioned in the Employment form).
 
 >Prepare an affidavit if your name is different in the documents.
 
