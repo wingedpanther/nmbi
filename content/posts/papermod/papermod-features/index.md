@@ -30,6 +30,7 @@ author: "Admin"
 6. **Employment Verification form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Employment-Form.pdf?ext=.pdf) it from NMBI). You need to get it filled by current and previous employers.**
 7. **Good Standing Certificate(CCPS)** from the Nursing Councils you have registered.
 8. **OET/IELTS Result** 
+9. **Nursing Registeration Certificate**
 
 ### List of documents required from the college
 - **Transcript**
@@ -51,9 +52,13 @@ All the above docs to be dated, signed and stamped by your college principal. Th
 
 
 ### General Information
-Ensure you submit valid explanation if you have gap in the employement and studies. 
+>Ensure you submit valid explanation if you have gap in the employement and studies. 
 
-Submit explanation if you signatory(employment and qualification forms) does not have an official email address. The explanation must be written in the official letterhead, signed and stamped.
+>Prepare an explanation if the signatory(employment and qualification forms) does not have an official email address. The explanation must be written in the official letterhead, signed and stamped.
+
+>Prepare an explanation if the signatory's title is different that what NMBI required.
+
+>Prepare an affidavit if your name is different in the documents.
 
 
 
