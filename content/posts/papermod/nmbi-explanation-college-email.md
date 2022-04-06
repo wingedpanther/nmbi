@@ -12,21 +12,23 @@ author: "Admin"
 > This letter must be written and printed in the **official letterhead** along with stamp of college.
 
 ```gist
-Ref: 
-Date: 
-                                TO WHOMSOEVER IT MAY CONCERN
 
-This is to state that I, (name of college principal), Principal of (college name); have processed the 
-qualification form for (name of candidate). His/Her details being:
-Name of Candidate: 
-Email id of the candidate:
-Kindly note the official email id of (college’s name) is (college email id).
-The official email id for the principal of (name of college) is (email id of the principal).
-Should you need any further details of clarifications, please feel free to get in touch with me on the email 
-for the principal.
+To,
+Nursing & Midwifery Board of Ireland (NMBI),
+Overseas Registration Department,
+18/20 Carysfort Avenue, Blackrock,
+Co. Dublin, A94 R299 - Ireland
 
-Thanking You,
-Yours Sincerely,
+To Whom It May Concern,
 
-(Signature of the Principal)
+I, NAME_OF_PRINCIPAL, the Principal of COLLEGE_NAME hereby certify that I have processed the NMBI qualification form as requested by 
+Name: CANDIDATE_NAME
+Email Address: CANDIDATE_EMAIL(SAME ID THAT YOU REG. WITH NMBI)
+Please be informed that the official email address of COLLEGE_NAME is COLLEGE_EMAIL_ID and the official email address of the principal of COLLEGE_NAME is PRINCIPAL’S_EMAIL_ID
+Please do not hesitate to contact me on the aforementioned email for any further information or clarifications.  
+
+Sincerely, 
+(Principal’s Sign)
+
+
 ```
