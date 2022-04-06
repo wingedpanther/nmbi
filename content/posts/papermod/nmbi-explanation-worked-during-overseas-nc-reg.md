@@ -8,7 +8,7 @@ tags: ["Explanation"]
 author: "Admin"
 ---
 
-### Explanation of the use unofficial email address(gmail,yahoo etc)
+### Explanation, if you have worked in during your nursing registeration process
 > It is an explanation to avoid query from NMBI assessor. You can write it in a word document.
 
 ```gist
