@@ -18,9 +18,10 @@ author: "Admin"
 
 -   It is highly recommended to read the [`Registrant User Guide`](https://www.nmbi.ie/NMBI/media/NMBI/Registrant_User_Guide.pdf?ext=.pdf) before you start.
 -   Application forms download [link](https://www.nmbi.ie/Registration/Application-Forms)
+-   You have to choose **"Overseas Recognition"** 
 ---
 
-## Documents Required
+## Documents Required(Mandatory)
 
 1. **Passport Copy**
 2. **Degree/Diploma Certificate**
@@ -29,16 +30,25 @@ author: "Admin"
 5. **Qualification Form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Qualification-Form.pdf?ext=.pdf) it from NMBI)
 6. **Employment Verification form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Employment-Form.pdf?ext=.pdf) it from NMBI). You need to get it filled by current and previous employers.**
 7. **Good Standing Certificate(CCPS)** from the Nursing Councils you have registered.
-8. **OET/IELTS Result** 
-9. **Nursing Registeration Certificate**
+8. **Nursing Registeration Certificate**
+
+## Additional Documents
+8. Affidavit/notarised copy of marriage certificate(For name change or expansion of name(initials ins the name), if there is name difference in passport and certificates)
+9. Employment gap declaration
+10. Explanation for unofficial email address on the official letterhead from the college or/and employers. 
+11. An Explanation if you have worked without nursing council registeration
+12. An Explanation if you have worked with any state of india other than the state where you have regsitered as a Nurse. 
+13. An explanation if the signatory's designation does not match what NMBI requires (the designation is indicated on the employment form).
+
 
 ### List of documents required from the college
 - **Transcript**
 > You need to get new transcript from the college.
 - **Syllabus**
-> All year's syllabus required. Pricipal's signature and college stamp is rquired on the  first 3 pages and last 3 pages.
+> Pricipal's signature and college stamp is rquired on the first 3 and last 3 pages.
 - **Qualification form**
 All the above docs to be dated, signed and stamped by your college principal. The date on all the above docs should be current date and the same.  
+
 
 ### List of documents need to be certified(Notary)
 
@@ -47,7 +57,7 @@ All the above docs to be dated, signed and stamped by your college principal. Th
 `All pages.`
 - **Syllabus**
 `First 3 and last 3 pages.`
-- **Passport**
+- **Passport(Color Copy)**
 - **Degree/Diploma**
 
 
