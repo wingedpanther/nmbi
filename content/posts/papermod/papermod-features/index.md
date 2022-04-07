@@ -9,7 +9,7 @@ tags: ["Documents"]
 author: "Admin"
 ---
 
-##  PREPARE ALL DOCUMENTS BEFORE SUBMITTING YOUR NMBI APPLICATION.
+## PREPARE ALL DOCUMENTS BEFORE SUBMITTING YOUR NMBI APPLICATION.
 
 ## Official NMBI Website
 
@@ -32,13 +32,13 @@ author: "Admin"
 7. **Good Standing Certificate(CCPS)** from the Nursing Councils you have registered.
 8. **Nursing Registeration Certificate**
 
-## Additional Documents
-8. Affidavit/notarised copy of marriage certificate(For name change or expansion of name(initials ins the name), if there is name difference in passport and certificates)
-9. Employment gap declaration
-10. Explanation for unofficial email address on the official letterhead from the college or/and employers. 
-11. An Explanation if you have worked without nursing council registeration
-12. An Explanation if you have worked with any state of india other than the state where you have regsitered as a Nurse. 
-13. An explanation if the signatory's designation does not match what NMBI requires (the designation is indicated on the employment form).
+### Additional Documents
+1. Affidavit/notarised copy of marriage certificate(For name change or expansion of name(initials ins the name), if there is name difference in passport and certificates)
+2. Employment gap declaration
+3. Explanation for unofficial email address on the official letterhead from the college or/and employers. 
+4. An Explanation if you have worked without nursing council registeration
+5. An Explanation if you have worked with any state of india other than the state where you have regsitered as a Nurse. 
+6. An explanation if the signatory's designation does not match what NMBI requires (the designation is indicated on the employment form).
 
 
 ### List of documents required from the college
