@@ -78,7 +78,7 @@ All the above docs to be dated, signed and stamped by your college principal. Th
 | AEV      | Awaiting External Validation      |
 | EAR   | Education Assessment Required        |
 | EAC      | Education Assessment Completed       |
-| Compensasation Measures Required   | DL/Decision Letter         |
+| Compensation Measures Required   | DL/Decision Letter         |
 
 
 ---
