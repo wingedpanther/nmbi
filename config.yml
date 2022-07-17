@@ -59,8 +59,8 @@ params:
     profileMode:
         enabled: false
         title: NMBI Guide
-        imageUrl: "#"
-        imageTitle: my image
+        # imageUrl: "#"
+       #  imageTitle: my image
         # imageWidth: 120
         # imageHeight: 120
         buttons:
