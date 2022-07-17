@@ -16,7 +16,7 @@ author: "Admin"
 
 -   The `official` NMBI website for the registration is  [https://my.nmbi.ie/](https://my.nmbi.ie/).
 
--   It is highly recommended to read the [`Registrant User Guide`](https://www.nmbi.ie/NMBI/media/NMBI/Registrant_User_Guide.pdf?ext=.pdf) before you start.
+-   It is highly recommended to read the [`Registrant User Guide(Click here to download)`](https://www.nmbi.ie/NMBI/media/NMBI/Registrant_User_Guide.pdf?ext=.pdf) before you start.
 -   Application forms download [link](https://www.nmbi.ie/Registration/Application-Forms)
 -   You have to choose **"Overseas Recognition"** 
 ---
