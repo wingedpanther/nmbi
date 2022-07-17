@@ -4,7 +4,7 @@ summary: Read about the documents required and preparation methods for the Overs
 date: 2022-07-17
 series: ["Documents"]
 weight: 1
-aliases: ["/nmbi-registeration"]
+aliases: ["/nmbi-overseas-recognition"]
 tags: ["Documents"]
 author: "Admin"
 ---
