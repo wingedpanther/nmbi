@@ -25,7 +25,8 @@ I, NAME_OF_PRINCIPAL, the Principal of COLLEGE_NAME hereby certify that I have p
 Name: CANDIDATE_NAME
 Email Address: CANDIDATE_EMAIL(SAME ID THAT YOU REG. WITH NMBI)
 Please be informed that the official email address of COLLEGE_NAME is COLLEGE_EMAIL_ID and the official email address of the principal of COLLEGE_NAME is PRINCIPAL’S_EMAIL_ID
-Please do not hesitate to contact me on the aforementioned email for any further information or clarifications.  
+
+Do not hesitate to contact me on the aforementioned email for any further information.  
 
 Sincerely, 
 (Principal’s Sign)
