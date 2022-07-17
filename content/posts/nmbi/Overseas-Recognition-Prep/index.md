@@ -1,6 +1,6 @@
 ---
 title: "NMBI Registration Preparation"
-summary: Read about the documents required for the registration process.
+summary: Read about the documents required and preparation methods for the Overseas Recognition process.
 date: 2022-01-05
 series: ["Documents"]
 weight: 1
