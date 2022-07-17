@@ -85,7 +85,7 @@ All the above docs to be dated, signed and stamped by your college principal. Th
 ---
 
 ## Quick Links
-
+-   ### [HSE Ireland - Interview Questions and Guidelines](https://drive.google.com/drive/folders/1RRz2WhMHRJE6w8uke0xy2PC8i3_sbea9?usp=sharing)
 -   ### [Syllabus Files Repository](https://drive.google.com/drive/folders/16f03fDR0bL1QGvynEzG0mgY0TNy-V6S8?usp=sharing)
 -   ### [PDF Compressor  - Android Apps(To reduce syllabus file size)](https://play.google.com/store/apps/collection/cluster?clp=ggEQCg5wZGYgY29tcHJlc3Nvcg%3D%3D:S:ANO1ljJr2MM&gsr=ChOCARAKDnBkZiBjb21wcmVzc29y:S:ANO1ljIQAHI)
 -   ### [PDF Compressor ](https://avepdf.com/hyper-compress-pdf)
