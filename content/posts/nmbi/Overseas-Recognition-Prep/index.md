@@ -1,7 +1,7 @@
 ---
 title: "NMBI Registration Preparation"
 summary: Read about the documents required and preparation methods for the Overseas Recognition process.
-date: 2022-01-05
+date: 2022-07-17
 series: ["Documents"]
 weight: 1
 aliases: ["/nmbi-registeration"]
