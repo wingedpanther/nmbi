@@ -73,13 +73,15 @@ All the above docs to be dated, signed and stamped by your college principal. Th
 >You can send the syllabus file to NMBI via email(G3reg@nmbi.ie) If you cannot reduce the size of the syllabus file. **It must be sent from the email address that you have used to register in NMBI**
 
 ### NMBI Application Status After Successful Submission
-| Status      | Description |
-| ----------- | ----------- |
-| FIR      | Further Information Required       |
-| AEV      | Awaiting External Validation      |
-| EAR   | Education Assessment Required        |
-| EAC      | Education Assessment Completed       |
-| Compensation Measures Required   | DL/Decision Letter         |
+| Status      | Description | Explanation |
+| ----------- | ----------- | ----------- |
+| Submitted |                | Once your payment has been successfully processed |
+| Incomplete |               | NMBI may require you to submit any missing documents - Check email |
+| FIR      | Further Information Required       | Your application will be placed on FIR if NMBI needs clarification (ex. Working without active nursing council registration or working without an official email address). You must check your email if your status gets turned to FIR - they would send a detailed information and what they require to change this status.|
+| AEV      | Awaiting External Validation      | In this status, the NMBI will send email correspondence to your employer/nursing council | 
+| EAR   | Education Assessment Required        | Documents related to your education, such as transcripts, qualification forms, etc., will be verified by them 
+| EAC      | Education Assessment Completed       | If your EAR is successful |
+| Compensation Measures Required   | DL/Decision Letter         | YOu will recieve email along with Decision Letter as an attachement(you may download it from NMBI Account -> My Documents)
 
 
 ---
