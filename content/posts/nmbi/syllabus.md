@@ -9,7 +9,9 @@ author: "Admin"
 ---
 
 ### List Syllabus Available
+
 > Click on the year to view and download the file
+
 | University   |  Download   |
 | -----------  | ----------- |
 | Rajiv Gandhi Univeristy | [1999](https://drive.google.com/file/d/1sXBPePhaDEV94A3o44X38XKnCUcVIc-r/view?usp=sharing), [2009](https://drive.google.com/file/d/1soUNrqNsnUqhp0hxtOEZpxZNzQc71HNM/view?usp=sharing), [2006](https://drive.google.com/file/d/1shiGPrJG17aqt4YlNSzVjVdyP5Njswaf/view?usp=sharing), [1999](https://drive.google.com/file/d/1sx1Wilyum8lrZDatvcWIIZ1PGPQFitbi/view?usp=sharing) |
