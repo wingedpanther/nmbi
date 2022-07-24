@@ -8,7 +8,6 @@ tags: ["syllabus"]
 author: "Admin"
 ---
 
-### List Syllabus Available
 
 > Click on the year to view and download the file
 
