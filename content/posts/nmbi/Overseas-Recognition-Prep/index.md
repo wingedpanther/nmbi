@@ -30,7 +30,7 @@ author: "Admin"
 5. **Qualification Form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Qualification-Form.pdf?ext=.pdf) it from NMBI)
 6. **Employment Verification form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Employment-Form.pdf?ext=.pdf) it from NMBI). You need to get it filled by current and previous employers.**
 7. **Good Standing Certificate(CCPS)** from the Nursing Councils you have registered.
-8. **Nursing Registeration Certificate**
+8. **Nursing Registration Certificate**
 
 ### Additional Documents
 1. Affidavit/notarised copy of marriage certificate(For name change or expansion of name(initials ins the name), if there is name difference in passport and certificates)
