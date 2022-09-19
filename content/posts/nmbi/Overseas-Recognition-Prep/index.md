@@ -39,6 +39,7 @@ author: "Admin"
 4. An Explanation if you have worked without nursing council registeration
 5. An Explanation if you have worked with any state of india other than the state where you have regsitered as a Nurse. 
 6. An explanation if the signatory's designation does not match what NMBI requires (the designation is indicated on the employment form).
+7. Affidavit/notarised if date of birth is different. 
 
 
 ### List of documents required from the college
