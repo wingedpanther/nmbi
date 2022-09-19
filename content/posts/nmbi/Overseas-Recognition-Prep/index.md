@@ -32,7 +32,7 @@ author: "Admin"
 7. **Good Standing Certificate(CCPS)** from the Nursing Councils you have registered.
 8. **Nursing Registration Certificate**
 
-### Additional Documents
+### Additional Documents(If applicable, not mandatory)
 1. Affidavit/notarised copy of marriage certificate(For name change or expansion of name(initials ins the name), if there is name difference in passport and certificates)
 2. Employment gap declaration
 3. Explanation for unofficial email address on the official letterhead from the college or/and employers. 
@@ -68,7 +68,7 @@ All the above docs to be dated, signed and stamped by your college principal. Th
 
 >Prepare an explanation if the signatory's title is different than what NMBI required(it is mentioned in the Employment form).
 
->Prepare an affidavit if your name is different in the documents.
+>Prepare an affidavit if your name nad/or date of birth is incorrect in the documents.
 
 >You can send the syllabus file to NMBI via email(G3reg@nmbi.ie) If you cannot reduce the size of the syllabus file. **It must be sent from the email address that you have used to register in NMBI**
 
