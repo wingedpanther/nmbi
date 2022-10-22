@@ -40,6 +40,6 @@ author: "Admin"
  12. Irish Host details  – as mentioned in your contract or check with your employer/recruiter
  13. Nature of Business – Nursing
  14. Medical references
-    1. Nursing and Midwifery Board of Ireland reference number - enter your date of birth in DDMMYY format.
-    2. Are you undertaking Clinical Adaptation Placement or RCSI Examination - RCSI Examination
+    1. Nursing and Midwifery Board of Ireland reference number - enter your date of birth in **DDMMYY** format.
+    2. Description of work – Nursing duties as described in job offer/contract
  15. In next page, upload the documents mentioned above 
