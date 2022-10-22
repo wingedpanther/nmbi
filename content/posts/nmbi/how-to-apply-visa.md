@@ -10,7 +10,7 @@ author: "Admin"
 ---
 
 ## You must need the following documents before create an online ATWS application
-1. ATWS Approval Letter
+1. ATWS Approval Letter([click here to find how to create ATWS](https://nmbi.netlify.app/posts/nmbi/how-to-apply-atws/))
 2. NMBI Decision Letter
 3. RCSI Confirmation Letter
 4. Signed Job Contract
