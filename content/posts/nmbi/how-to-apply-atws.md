@@ -33,7 +33,7 @@ author: "Admin"
     6. Contact Name – as mentioned in your contract or check with your employer/recruiter
     7. Contact number – as mentioned in your contract or check with your employer/recruiter
     8. Contact e-mail – as mentioned in your contract or check with your employer/recruiter
- 8.  Expected Travel pattern – I will remain in the states during the contract
+ 8. Expected Travel pattern – I will remain in the states during the contract
  9. Salary paid from – Paid within the State
  10. Salary - Enter your salary
  11. Benefits in Kind - No
