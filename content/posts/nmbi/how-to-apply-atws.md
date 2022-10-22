@@ -43,4 +43,4 @@ author: "Admin"
  15. Are you undertaking Clinical Adaptation Placement or RCSI Examination – RCSI Examination
  16. In next page, upload the documents mentioned above 
 
- > Next step is the Visa process(Only after the ATWS approval letter). [Click here to read how to apply](https://nmbi.netlify.app/posts/nmbi/how-to-apply-atws/)
+ > Next step is the Visa process(Only after the ATWS approval letter). [Click here to read how to apply](https://nmbi.netlify.app/posts/nmbi/how-to-apply-visa/)
