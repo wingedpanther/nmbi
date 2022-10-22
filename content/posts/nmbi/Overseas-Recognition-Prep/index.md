@@ -53,7 +53,7 @@ All the above docs to be dated, signed and stamped by your college principal. Th
 
 ### List of documents need to be certified(Notary)
 
->The following documents need to be certified. A certified copy is photocopy whih has been certified by an appropriate authority as a true copy of the original.
+>The following documents need to be certified. A certified copy is photocopy which has been certified by an appropriate authority as a true copy of the original.
 - **Transcript**
 `All pages.`
 - **Syllabus**
