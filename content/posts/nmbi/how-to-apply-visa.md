@@ -26,5 +26,5 @@ author: "Admin"
  6. Visit [VFS website](https://www.vfsvisaonline.com/IrelandShoppingCart/pages/Authorization.aspx)
  7. Fill all inoformation as per your passport
  8. Visa Application Reference/Transaction Number  - enter your AVATS reference number(mentioned above point #5)
- 9. Compplete the payment and do not forget to save the application and receipt that you will get during the process
+ 9. Complete the payment and do not forget to save the application and receipt that you will get during the process
 
