@@ -11,8 +11,8 @@ author: "Admin"
 
 > ❗IMPORTANT: MAKE THE NECESSARY CHANGES IN THE DOCUMENT TEMPLATE ACCORDING TO YOUR SITUATION AND UPLOAD THE EXPLANATION TO NMBI.
 
-<!-- | **Explanation**   |     |
-| -----------  | ----------- | -->
+|    |     |
+| -----------  | ----------- |
 |Explanation for NMBI employment for signatory|[📎Download](/static/explanations/Explanation_Employment_Form_Signatory.docx)|
 |Explanation for gap in the career|[📎Download](/static/explanations/Explanation_Gap_in_Career.docx)|
 |Explanation for unofficial principal email address|[📎Download](/static/explanations/Explanation_Unofficail_College_Email(MUST_BE_IN_LETTERHEAD).docx)|
