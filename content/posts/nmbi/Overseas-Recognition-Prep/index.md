@@ -1,7 +1,7 @@
 ---
-title: "NMBI Registration Preparation"
-summary: Read about the documents required and preparation methods for the Overseas Recognition process.
-date: 2022-07-17
+title: "Guide for preparing the NMBI Overseas Recognition Application"
+summary: Find out what documents are required and how the Overseas Recognition process works.
+date: 2022-10-29
 series: ["Documents"]
 weight: 1
 aliases: ["/nmbi-overseas-recognition"]
@@ -28,18 +28,18 @@ author: "Admin"
 3. **Transcript**
 4. **Syllabus**
 5. **Qualification Form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Qualification-Form.pdf?ext=.pdf) it from NMBI)
-6. **Employment Verification form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Employment-Form.pdf?ext=.pdf) it from NMBI). You need to get it filled by current and previous employers.**
+6. **Employment Verification form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Employment-Form.pdf?ext=.pdf) it from NMBI). You need to get it filled by current and previous employers.
 7. **Good Standing Certificate(CCPS)** from the Nursing Councils you have registered.
 8. **Nursing Registration Certificate**
 
-### Additional Documents(If applicable, not mandatory)
-1. Affidavit/notarised copy of marriage certificate(For name change or expansion of name(initials ins the name), if there is name difference in passport and certificates)
-2. Employment gap declaration
-3. Explanation for unofficial email address on the official letterhead from the college or/and employers. 
-4. An Explanation if you have worked without nursing council registeration
-5. An Explanation if you have worked with any state of india other than the state where you have regsitered as a Nurse. 
-6. An explanation if the signatory's designation does not match what NMBI requires (the designation is indicated on the employment form).
-7. Affidavit/notarised if date of birth is different. 
+### Additional Documents(Optional) & Instructions
+1. You need to get an affidavit if your name appears differently on your certificates or the documents mentioned above. After marriage, spouse name may be added to your name, or you may have initials in your name.
+2. Write an explanation letter if you have gap in your career. You can create a Word document, then export it to a PDF and submit it under the employment details section. 
+3. Get an explanation from your employer(s) and/or college principal if they do not have an official email address (if they have email in Gmail or Yahoo). Please note that this explanation must be written on their official letter-head document. 
+4. Write an explanation if you have worked without nursing council registration
+5. Write an explanation if you have worked in any state of India other than the state where you have registered as a nurse.
+6. Write an explanation if the signatory's designation does not match what NMBI requires (the designation is indicated on the employment form).
+7. Get an affidavit if your date of birth appears differently on your certificates or the documents mentioned above
 
 
 ### List of documents required from the college
