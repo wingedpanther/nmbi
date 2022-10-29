@@ -1,5 +1,5 @@
 ---
-title: "💳 How to create ATWS application"
+title: "🚀 How to create ATWS application"
 summary: how to apply for atws application
 date: 2022-10-22
 series: ["howto"]
