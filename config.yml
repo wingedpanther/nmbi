@@ -40,7 +40,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Here you will get guides and information based on the NMBI aspirants experiences. Please note that this site has not relation with official NMBI."
-    author: Vivek
+    author: Admin
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
