@@ -21,7 +21,7 @@ author: "Admin"
 -   You have to choose **"Overseas Recognition"** 
 ---
 
-([download](/static/explanations/Explanation_Employment_Form_Signatory.docx)
+[download](/static/explanations/Explanation_Employment_Form_Signatory.docx)
 
 ## Documents Required(Mandatory)
 
