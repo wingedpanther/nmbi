@@ -4,7 +4,7 @@ summary: Sample explanation letter for explaining about the use of unofficial em
 date: 2021-01-20
 weight: 2
 aliases: ["/explanation-template-college-email"]
-tags: ["Explanation"]
+tags: ["Explanation, email"]
 author: "Admin"
 ---
 
