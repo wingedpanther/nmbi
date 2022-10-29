@@ -21,7 +21,7 @@ author: "Admin"
 
  1. Register your account  - https://inisonline.jahs.ie/user/register
  2. Login to your account - https://inisonline.jahs.ie/user/login
- 3. Click on **Applications for Permission to enter in the State** and click on "Begin application" under 
+ 3. Click on **Applications for Permission to enter in the State** and click on "Begin application".
  4. Scheme Selection -> **Nursing Clinical Adaptation**
  5. Enter the personal information **as per your passport**
  6. Immigration History -> Input immigration number if you are currently living outside your country of origin
