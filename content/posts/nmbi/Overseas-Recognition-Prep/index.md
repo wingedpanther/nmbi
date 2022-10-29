@@ -58,8 +58,8 @@ All the above docs to be dated, signed and stamped by your college principal. Th
 `All pages.`
 - **Syllabus**
 `First 3 and last 3 pages.`
-- **Passport(Color Copy)**
-- **Degree/Diploma**
+- **Passport color copy**
+- **Your Degree or Diploma**
 
 
 ### General Information(MUST READ)
