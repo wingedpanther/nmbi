@@ -77,11 +77,11 @@ params:
             Please note that this site is not affiliated with official [NMBI](https://www.nmbi.ie) in any way.
             Discrepancies or misinformation about the information shared here can be reported to **postgreshero@gmail.com**, or please feel free to email me if you want to share any suggestions or information regarding NMBI application submission
             
-    # socialIcons:
-    #     - name: email
-    #       url: "postgreshero@gmail.com"
-    #     - name: telegram
-    #       url: "@KingOfKerala"
+    socialIcons:
+        - name: email
+          url: "postgreshero@gmail.com"
+        - name: telegram
+          url: "@KingOfKerala"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
