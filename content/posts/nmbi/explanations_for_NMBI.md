@@ -13,23 +13,7 @@ author: "Admin"
 
 |    |     |
 | -----------  | ----------- |
-|Explanation for NMBI employment for signatory
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>|[📎Download](/static/explanations/Explanation_Employment_Form_Signatory.docx)|
+|Explanation for NMBI employment for signatory|[📎Download](/static/explanations/Explanation_Employment_Form_Signatory.docx)|
 |Explanation for gap in the career|[📎Download](/static/explanations/Explanation_Gap_in_Career.docx)|
 |Explanation for unofficial principal email address|[📎Download](/static/explanations/Explanation_Unofficail_College_Email(MUST_BE_IN_LETTERHEAD).docx)|
 |Explanation for unofficial employer email address|[📎Download](/static/explanations/Explanation_Unofficial_Employer_Email(MUST_BE_IN_LETTERHEAD).docx)|
