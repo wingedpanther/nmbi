@@ -4,7 +4,6 @@
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
     <br>
-    <br>
     <h1 class="post-title">
       {{ .Title }}
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
@@ -15,7 +14,6 @@
     </div>
     {{- end }}
     {{- if not (.Param "hideMeta") }}
-    <br>
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}
       {{- partial "translation_list.html" . -}}
@@ -31,6 +29,7 @@
   {{- end }}
 
   {{- if .Content }}
+  <br>
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
