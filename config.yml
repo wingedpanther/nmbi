@@ -79,9 +79,9 @@ params:
             
     socialIcons:
         - name: email
-          url: "postgreshero@gmail.com"
+          url: "emiailto:postgreshero@gmail.com"
         - name: telegram
-          url: "@KingOfKerala"
+          url: "t.me@KingOfKerala"
 
     # editPost:
     #     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
