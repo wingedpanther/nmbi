@@ -1,5 +1,5 @@
 ---
-title: "Explanation Template - College Email Address"
+title: "📄 Explanation Template - College Email Address"
 summary: Sample explanation letter for explaining about the use of unofficial email address
 date: 2021-01-20
 weight: 2

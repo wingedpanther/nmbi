@@ -1,5 +1,5 @@
 ---
-title: "Explanation Template - Worked During Nursing Council Registration"
+title: "📄 Explanation Template - Worked During Nursing Council Registration"
 summary: For those who have worked in gulf countries
 date: 2021-01-20
 weight: 2

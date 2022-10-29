@@ -1,5 +1,5 @@
 ---
-title: "Download Syllabus Files"
+title: "📃 Download Syllabus Files"
 summary: Syllabus files in PDF format(uncompressed)
 date: 2022-07-24
 weight: 2

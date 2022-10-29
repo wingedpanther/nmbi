@@ -1,5 +1,5 @@
 ---
-title: "How to apply for visa"
+title: "💳 How to apply for visa"
 summary: How to apply for visa
 date: 2022-10-22
 series: ["howto"]

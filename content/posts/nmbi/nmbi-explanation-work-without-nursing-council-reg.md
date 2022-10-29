@@ -1,5 +1,5 @@
 ---
-title: "Explanation Template - If you worked without nursing council registration"
+title: "📄 Explanation Template - If you worked without nursing council registration"
 summary: Sample explanation letter for explaining if you worked in a state wihtout that state's nursing council registration.
 date: 2021-01-20
 weight: 2
