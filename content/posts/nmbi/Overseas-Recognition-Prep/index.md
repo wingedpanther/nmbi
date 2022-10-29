@@ -23,13 +23,13 @@ author: "Admin"
 
 ## Documents Required(Mandatory)
 
-1. **Passport Copy**
-2. **Degree/Diploma Certificate**
+1. **A *color* copy of your passport**
+2. **A copy of your Degree or Diploma Certificate**
 3. **Transcript**
 4. **Syllabus**
-5. **Qualification Form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Qualification-Form.pdf?ext=.pdf) it from NMBI)
-6. **Employment Verification form** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Employment-Form.pdf?ext=.pdf) it from NMBI). You need to get it filled by current and previous employers.
-7. **Good Standing Certificate(CCPS)** from the Nursing Councils you have registered.
+5. **A completed Qualification Form** by the college principal ([download](https://www.nmbi.ie/NMBI/media/NMBI/Qualification-Form.pdf?ext=.pdf) it from NMBI)
+6. **The completed Employment Verification forms** ([download](https://www.nmbi.ie/NMBI/media/NMBI/Employment-Form.pdf?ext=.pdf) it from NMBI). You need to get it filled by current and previous employers.
+7. **You must have a Good Standing Certificate (CCPS) from each of the nursing councils with which you are registered.** from the Nursing Councils you have registered.
 8. **Nursing Registration Certificate**
 
 ### Additional Documents(Optional) & Instructions
