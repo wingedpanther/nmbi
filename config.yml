@@ -52,7 +52,7 @@ params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
-    ShowToc: true
+    ShowToc: false 
     # comments: false
     # images: ["papermod-cover.png"]
 
