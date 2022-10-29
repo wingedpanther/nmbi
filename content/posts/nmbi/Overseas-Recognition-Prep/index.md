@@ -76,8 +76,8 @@ All the above docs to be dated, signed and stamped by your college principal. Th
 ### NMBI Application Status After Successful Submission
 | Status      | Description | Explanation |
 | ----------- | ----------- | ----------- |
-| Submitted |                | Once your payment has been successfully processed |
-| Incomplete |               | NMBI may require you to submit any missing documents - Check email |
+| Submitted | If payment is successful                | Once your payment has been successfully processed |
+| Incomplete |      Missing documents/information         | NMBI may require you to submit any missing documents - Check email |
 | FIR      | Further Information Required       | Your application will be placed on FIR if NMBI needs clarification (ex. Working without active nursing council registration or working without an official email address). You must check your email if your status gets turned to FIR - they would send a detailed information and what they require to change this status.|
 | AEV      | Awaiting External Validation      | In this status, the NMBI will send email correspondence to your employer/nursing council | 
 | EAR   | Education Assessment Required        | Documents related to your education, such as transcripts, qualification forms, etc., will be verified by them 
