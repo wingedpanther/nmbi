@@ -12,7 +12,7 @@ author: "Admin"
 ## The following documents are required to create an online ATWS application
 
 1. Colour copy of entire passport (every page in colour and in order – even empty pages saved in one document)                        
-2. Signed Contract (signed by both employer & yourself) Date you sign the contract: today’s date
+2. **Signed Contract** (signed by both employer & yourself)
 3. NMBI Decision letter        
 4. RCSI e-mail invitation 
 
