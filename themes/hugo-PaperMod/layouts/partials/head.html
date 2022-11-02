@@ -79,6 +79,7 @@
 {{- else }}
 {{- $search := (slice $fusejs $fastsearch ) | resources.Concat "assets/js/search.js" | minify }}
 <script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}"></script>
+<script async defer src="https://www.poeticmetric.com/poeticmetric.js"></script>
 {{- end }}
 {{- end -}}
 
