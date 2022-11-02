@@ -36,6 +36,7 @@
 {{- with .Site.Params.title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
 {{- with .Params.videos }}{{- range . }}
 <meta property="og:video" content="{{ . | absURL }}" />
+<script async defer src="https://www.poeticmetric.com/poeticmetric.js"></script>
 {{ end }}{{ end }}
 
 {{- /* If it is part of a series, link to related articles */}}
