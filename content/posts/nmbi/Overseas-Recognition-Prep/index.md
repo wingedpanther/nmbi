@@ -53,10 +53,9 @@ author: Admin
 
 * **Syllabus**
 
-> Pricipal's signature and college stamp is rquired on the first 3 and last 3 pages.
+> Principal's signature and college stamp is required on the first 3 and last 3 pages.
 
-* **Qualification form**
-  All the above docs to be dated, signed and stamped by your college principal. The date on all the above docs should be current date and the same.
+* **Qualification form** All the above docs to be dated, signed and stamped by your college principal. The date on all the above docs should be the current date and the same.
 
 ### List of documents need to be certified(Notary)
 
