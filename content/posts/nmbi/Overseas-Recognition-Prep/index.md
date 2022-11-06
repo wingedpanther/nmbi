@@ -65,8 +65,8 @@ author: Admin
   `All pages.`
 * **Syllabus**
   `First 3 and last 3 pages.`
-* **Passport color copy**
-* **Your Degree or Diploma**
+* **Passport colour copy**
+* **Your degree or diploma**
 
 ### General Information(MUST READ)
 
