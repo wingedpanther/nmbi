@@ -23,7 +23,7 @@ author: "Admin"
  2. Fill all the information **as per your passport**
  3. Type of visa is **Single entry**, **long stay for employement**
  4. Host Body - enter name of your employer and their address
- 5. If everythiong goes well you will get AVATS application form. Keep it saved on your device and also note down Visa/application reference number that started with IRL.
+ 5. If everythiong goes well you will get AVATS application form. Keep it saved on your device and also note down Visa/application reference number that starts with IRL.
 
  ## VFS Appointment 
 
