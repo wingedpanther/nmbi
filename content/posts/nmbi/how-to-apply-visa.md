@@ -17,6 +17,7 @@ author: "Admin"
 4. Signed Job Contract
 
 ## Instructions
+
 ## AVATS Online Visa/Preclearance Application 
  1. Visit https://www.visas.inis.gov.ie/AVATS/OnlineHome.aspx
  2. Fill all the information **as per your passport**
