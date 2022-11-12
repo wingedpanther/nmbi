@@ -13,12 +13,12 @@ author: "Admin"
 
 |    |     |
 | -----------  | ----------- |
-|Explanation for NMBI employment for signatory|[📎Download](/static/explanations/Explanation_Employment_Form_Signatory.docx)|
-|Explanation for gap in the career|[📎Download](/static/explanations/Explanation_Gap_in_Career.docx)|
-|Explanation for unofficial principal email address|[📎Download](/static/explanations/Explanation_Unofficail_College_Email(MUST_BE_IN_LETTERHEAD).docx)|
-|Explanation for unofficial employer email address|[📎Download](/static/explanations/Explanation_Unofficial_Employer_Email(MUST_BE_IN_LETTERHEAD).docx)|
-|Explanation for working during nursing council registration|[📎Download](/static/explanations/Explanation_Worked_during_nursing_council_registration.docx)|
-|Explanation for working without nursing registration(registered in state A and worked in state B)|[📎Download](/static/explanations/Explanation_Worked_without_nursing_council_registration_in_another_jurisdiction.docx)|
+|Explanation for NMBI employment for signatory|[Download](/static/explanations/Explanation_Employment_Form_Signatory.docx)|
+|Explanation for gap in the career|[Download](/static/explanations/Explanation_Gap_in_Career.docx)|
+|Explanation for unofficial principal email address|[Download](/static/explanations/Explanation_Unofficail_College_Email(MUST_BE_IN_LETTERHEAD).docx)|
+|Explanation for unofficial employer email address|[Download](/static/explanations/Explanation_Unofficial_Employer_Email(MUST_BE_IN_LETTERHEAD).docx)|
+|Explanation for working during nursing council registration|[Download](/static/explanations/Explanation_Worked_during_nursing_council_registration.docx)|
+|Explanation for working without nursing registration(registered in state A and worked in state B)|[Download](/static/explanations/Explanation_Worked_without_nursing_council_registration_in_another_jurisdiction.docx)|
 
 
 
