@@ -35,7 +35,7 @@ author: "Admin"
 
 
 
-**Q3: Building & Maintaining Relationships**
+**Q3: Commitment to Providing a Quality Service**
 
 
 *One example of when I demonstrated my commitment to providing a quality service was when I noticed a discrepancy in the administration of medications for one of my patients. After reviewing the patient's chart and speaking with the pharmacist, I realized that the patient had been receiving the wrong medication for several days.*
