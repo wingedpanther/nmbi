@@ -1,7 +1,7 @@
 ---
 title: "📄 Supplementary Question Answers for HSE"
 summary: Please do not copy and paste the following answers!.
-date: 2021-01-20
+date: 2022-10-23
 weight: 2
 aliases: ["/hse-supplementary-answers-sample"]
 tags: ["hse"]
