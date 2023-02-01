@@ -10,9 +10,8 @@ author: "Admin"
 
 ### Answers listed here are hypothetical examples based on common scenarios. You should use them only as a guide and create uniquely tailored answers based on your role and responsibilities.
 
-> Q1: Planning and Organising Skills
+** Q1: Planning and Organising Skills **
 
-```gist
 One example of when I demonstrated my ability to plan and organize resources efficiently and effectively was during a particularly busy shift at the hospital. One of my patients was experiencing sudden cardiac arrest and required immediate attention, while two other patients were in need of medication and treatment. Additionally, I had to assist the charge nurse in preparing for the arrival of several new patients who were being transferred from the emergency room.
 
 I quickly assessed the situation and prioritized the needs of each patient, ensuring that the patient in cardiac arrest received immediate attention from the code team. I also delegated tasks to other members of the nursing staff, such as administering medication to one of the patients and helping the charge nurse with the transfer of the new patients. At the same time, I continued to monitor the condition of the other patients and made any necessary adjustments to their care plans.
@@ -20,7 +19,6 @@ Throughout the shift, I remained flexible and adaptable, making changes to my pl
 
 By the end of the shift, I had successfully managed all of the patients under my care and ensured that each one received the necessary treatment and care in a timely manner. My ability to plan, organize, and adapt in a dynamic environment helped to ensure the safety and well-being of my patients and allowed me to effectively manage a demanding workload.
 
-```
 
 
 > Q2: Building & Maintaining Relationships
