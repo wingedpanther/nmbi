@@ -23,7 +23,8 @@ My information is,
 4. IRP expiry date:
 5. Contact number:
 6. Do you have all documents (hard, original copies only) ready?: Yes
-7. Is this appointment request for renewal or for first time registration or stamp change?: First time registration
+7. Is this appointment request for renewal or for first time registration or stamp change?: First time registration.
+
 I have original documents available with me including proof of address as well.
 
 Please let me know if there is any additional information or documentation that I need to bring with me to the appointment. I have read the information on the INIS website regarding the documents required for first-time registration and I will ensure that I have everything that is necessary.
