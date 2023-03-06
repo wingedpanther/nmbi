@@ -10,6 +10,8 @@ author: "Admin"
 
 ### Make sure you make necessery changes according to your profile.
 
+## To schedule an appointment, send the following email to the garda office in your county. You can find the email from [www.garda.ie](https://www.garda.ie/en/contact-us/station-directory/)
+
 **Email Subject: Request for GNIB Appointment(First time registration)**
 
 Dear Immigration Officer,
@@ -36,5 +38,7 @@ Thank you.
 Sincerely,
 
 [Your Name] 
+
+
 
 
