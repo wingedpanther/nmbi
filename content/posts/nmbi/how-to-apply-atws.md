@@ -16,6 +16,10 @@ author: "Admin"
 3. NMBI Decision letter        
 4. RCSI e-mail invitation 
 
+### ⚠️MUST READ LINKS MENTIONED BELOW BEFORE APPLYIING
+### 1. https://www.irishimmigration.ie/coming-to-work-in-ireland/what-are-my-work-visa-options/applying-for-a-long-stay-employment-visa/atypical-working-scheme/atypical-working-scheme-for-nurses/
+### 2. https://www.irishimmigration.ie/wp-content/uploads/2021/04/Required-Documents-Reference-Guide.pdf
+
 ## Instructions
 > Please read the [`guidelines(Click here to read from official site)`](https://www.irishimmigration.ie/wp-content/uploads/2021/04/INIS-online-portal-guidance.pdf) first and then create your application.
 
